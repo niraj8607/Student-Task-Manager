@@ -390,7 +390,7 @@ This project is open source and available for educational purposes.
 ---
 
 ## 👨‍💻 Author
-
+Niraj Kumar
 Created as a full-stack MERN project for task management and authentication learning.
 
 ---
@@ -400,5 +400,8 @@ Created as a full-stack MERN project for task management and authentication lear
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 ---
+
+## Live Demo
+Live : https://student-task-manager-topaz.vercel.app/
 
 **Happy Task Managing! 🚀**

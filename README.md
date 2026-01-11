@@ -373,14 +373,6 @@ cd frontend && npm run build
 
 ---
 
-## 📚 Learning Resources
-
-- [MERN Stack Tutorial](https://www.mongodb.com/developer/languages/javascript/mern-stack-guide/)
-- [JWT Authentication](https://jwt.io/introduction)
-- [Mongoose Documentation](https://mongoosejs.com/)
-- [React Router](https://reactrouter.com/)
-- [Axios Documentation](https://axios-http.com/)
-
 ---
 
 ## 📝 License
